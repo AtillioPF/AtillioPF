@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AtillioPF
+- 👋 Hi, I’m Atillio Pinno Fetter (@AtillioPF)
 - 👀 I’m interested in Python, C#, Java, Gym and Engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everything I can help
